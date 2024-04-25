@@ -1,0 +1,2 @@
+docker==7.0.0
+watchtower==3.2.0
